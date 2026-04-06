@@ -32,4 +32,4 @@ Notas:
 
 Proyecto enfocado en práctica fullstack y preparado para entrevistas junior.
 Quedan varias mejoras planeadas para siguientes iteraciones.
-Para la BD, se usó EF ahí se genera la estrucutra en Migraciones.
+La base de datos se gestiona con Entity Framework Core (Code First). Las migraciones permiten versionar la estructura y reconstruirla en cualquier entorno mediante update-database.
