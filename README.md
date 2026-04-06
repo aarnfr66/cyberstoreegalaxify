@@ -1,35 +1,44 @@
 CyberStore (eGalaxify)
 
-Aplicación fullstack de e-commerce desarrollada con Angular + .NET + SQL Server.
+Aplicación e-commerce fullstack desarrollada como proyecto de práctica profesional, implementando autenticación, roles y gestión completa de productos y órdenes.
 
-Funcionalidades:
+ Funcionalidades
 Autenticación con JWT
-Roles: USER / ADMIN
 Registro y login de usuarios
+Roles: USER / ADMIN
 Catálogo de productos
-Carrito de compras con contador reactivo
+Carrito de compras (contador reactivo)
 Checkout y generación de órdenes
-Panel de administrador:
+Panel de administrador
 CRUD de productos
-Visualización de órdenes con usuario y detalle
+Visualización de órdenes
+Relación de órdenes con usuario
+Extras
 Validaciones en formularios
-Mensajes UI (success / error)
-Tecnologías:
+Mensajes UI (éxito / error)
+ Tecnologías
 Frontend: Angular
 Backend: ASP.NET Core Web API
 Base de datos: SQL Server
-ORM: Entity Framework Core
-Ejecución:
+ORM: Entity Framework Core (Code First + Migrations)
+ Ejecución del proyecto
 Backend
 dotnet run
 Frontend
 npm install
 ng serve
-Roles de prueba:
-USER: puede comprar productos
+ Roles de prueba
+USER: puede navegar y comprar productos
 ADMIN: gestiona productos y órdenes
-Notas:
+ Base de datos
 
-Proyecto enfocado en práctica fullstack y preparado para entrevistas junior.
-Quedan varias mejoras planeadas para siguientes iteraciones.
-La base de datos se gestiona con Entity Framework Core (Code First). Las migraciones permiten versionar la estructura y reconstruirla en cualquier entorno mediante update-database.
+La base de datos se gestiona mediante Code First, permitiendo reconstruirla automáticamente con:
+
+dotnet ef database update
+
+Las migraciones versionan la estructura y garantizan consistencia entre entornos.
+
+ Notas
+
+Proyecto enfocado en práctica fullstack y preparación para entrevistas junior.
+Se planean mejoras futuras en UI, validaciones y experiencia de usuario
