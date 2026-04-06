@@ -32,3 +32,4 @@ Notas:
 
 Proyecto enfocado en práctica fullstack y preparado para entrevistas junior.
 Quedan varias mejoras planeadas para siguientes iteraciones.
+Para la BD, se usó EF ahí se genera la estrucutra en Migraciones.
