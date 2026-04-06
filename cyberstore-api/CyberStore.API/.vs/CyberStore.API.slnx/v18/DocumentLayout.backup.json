@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\models\\caritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\models\\caritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|e:\\programas\\cyberstore\\cyberstore-api\\cyberstore.api\\cyberstore.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEEE970-8608-E7BB-8E2A-4C434C1212A4}|CyberStore.API\\CyberStore.API.csproj|solutionrelative:cyberstore.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "CyberStore.API\\DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:32:18.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "CyberStore.API\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:41:23.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CyberStore.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:49:51.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Services\\OrderService.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Services\\OrderService.cs",
+              "RelativeToolTip": "CyberStore.API\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:41:57.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddToCartDTO.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\AddToCartDTO.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\DTOs\\AddToCartDTO.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\AddToCartDTO.cs",
+              "RelativeToolTip": "CyberStore.API\\DTOs\\AddToCartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:33:11.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "CyberStore.API\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:45:32.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Models\\Order.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\Order.cs",
+              "RelativeToolTip": "CyberStore.API\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:34:02.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CyberStore.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:32:28.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Models\\User.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\User.cs",
+              "RelativeToolTip": "CyberStore.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:42:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CyberStore.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T22:51:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckoutDto.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\CheckoutDto.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\DTOs\\CheckoutDto.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\DTOs\\CheckoutDto.cs",
+              "RelativeToolTip": "CyberStore.API\\DTOs\\CheckoutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:33:04.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Services\\IOrderService.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Services\\IOrderService.cs",
+              "RelativeToolTip": "CyberStore.API\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T00:44:19.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Models\\OrderItem.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\OrderItem.cs",
+              "RelativeToolTip": "CyberStore.API\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:48:54.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Models\\Product.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\Product.cs",
+              "RelativeToolTip": "CyberStore.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:06:17.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarItem.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\CarItem.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Models\\CarItem.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Models\\CarItem.cs",
+              "RelativeToolTip": "CyberStore.API\\Models\\CarItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T22:34:01.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CyberStore.API\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\programas\\cyberstore\\cyberstore-api\\CyberStore.API\\CyberStore.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CyberStore.API\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwFkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:32:26.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
